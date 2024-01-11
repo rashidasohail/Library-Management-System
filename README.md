@@ -22,10 +22,6 @@ Divided into two modules
 -After the admin approve the request they can see the issue and return date.
 -Also, there is a public comment section where registered users can comment on their suggestions and can ask questions.
 
-![image](https://github.com/rashidasohail/Library-Management-System/assets/69976325/ddef7c51-92df-41e9-a500-324eb3e1f991)
-
-
-
 
 
 
