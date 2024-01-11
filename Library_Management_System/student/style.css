@@ -1,0 +1,207 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+body {
+    line-height:1;
+}
+
+article,aside,details,figcaption,figure,
+footer,header,hgroup,menu,nav,section {
+    display:block;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+/* change colours to suit your needs */
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+/* change colours to suit your needs */
+mark {
+    background-color:#ff9;
+    color:#000;
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+hr {
+    display:block;
+    height:1px;
+    border:0;  
+    border-top:1px solid #cccccc;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}
+/*index.html*/
+.wrapper{
+	height:720px;
+	background-image:url("images/background.png");
+	no-repeat center center;
+
+}
+
+.logo{
+	float:left;
+	padding-left:40px;
+	margin-left:50px;
+}
+
+li a{
+	color:white;
+	text-decoration:none;
+}
+
+section{
+	height:450px;
+}
+.box{
+	height:300px;
+	width:700px;
+	
+	margin:70px auto;
+	
+}
+.sec_img h1{
+	color: #821617;
+}
+
+footer{
+	height:65px;
+	margin-top:50px;
+	background-color:black;
+	opacity:.7;
+	
+
+}
+
+                                                                                    /*student_login.html*/
+																					
+.student_login{
+	height:720px;
+	background-image:url("images/login.jpg");
+	no-repeat center center;
+}
+.box1{
+	height:450px;
+	width:450px;
+	margin:30px auto;
+	background-color:white;
+	opacity:.7;
+	padding:20px;
+}
+.box1 h1{
+	
+	text-align: center; 
+	font-size: 25px;
+	line-height:50px;
+}
+form .login{
+	margin:auto 70px;
+}
+input{
+	height:25px;
+	width:300px;
+}
+
+form .login .btn-default{
+	border-color: #e7e7e7;
+	background-color:black;
+	color:gray;
+	width:90px;
+	height:35px;
+	float:right;
+	margin-right:85px;
+	font-weight: bold; 
+
+}
+
+                  /*registration.html*/
+
+.student_registration{
+	height:720px;
+	background-image:url("images/login.jpg");
+	no-repeat center center;
+}
+.box2{
+	height:670px;
+	width:450px;
+	margin:-7px auto;
+	background-color:white;
+	opacity:.7;
+	padding:20px;
+}
+.box2 h1{
+	text-align: center; 
+	font-size: 25px;
+	line-height:50px;
+}
+form .registration .btn-default{
+	border-color: #e7e7e7;
+	background-color:black;
+    color: white;
+	width:90px;
+	height:35px;
+	float:right;
+	margin-right:85px;
+	font-weight: bold; 
+
+}
