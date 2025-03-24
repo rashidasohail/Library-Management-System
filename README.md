@@ -31,6 +31,8 @@ Divided into two modules
 <li>Also, there is a public comment section where registered users can comment on their suggestions and can ask questions.</li>
 </ul>
 
+<h3>Added presentation file for the Library Management System project. The PPT provides an overview of the project's objectives, features and implementation details</h3>
+
 
 
 
