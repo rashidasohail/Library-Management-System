@@ -1,7 +1,7 @@
 # Library Management System
 
 **Objective**
-The objective of this system is to develop a computerized system to maintain all the daily work of the library.
+The objective of this system was to develop a computerized system to maintain all the daily work of the library.
 
 **Modules**
 Divided into two modules
